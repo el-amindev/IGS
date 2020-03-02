@@ -19,6 +19,7 @@ The idea is to have an humidity sensor on the earth, measuring the amount of wat
 - Soil Moisture Sensor
 - Battery & Solar Monitoring
 - Water Flow Sensor (Pump)
+- Sleep Mode
 - IOT Monitor
 - IOT Control
 
